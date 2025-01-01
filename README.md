@@ -24,3 +24,6 @@ A collection of beginner-level Python projects created during my learning journe
 1. Clone the repository:
    ```bash
    git clone git@github.com:berkeyigit/Beginner-Python-Projects.git
+
+## Support
+If you found this repository helpful, please give it a ⭐!
